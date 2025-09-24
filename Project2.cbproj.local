@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2025/09/24 08:22:38.257,=C:\Users\Axel\Documents\Embarcadero\Studio\Projets\Project2PCH2.h</Transaction>
-    <Transaction>2025/09/24 08:22:38.331,=C:\Users\Axel\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
-    <Transaction>2025/09/24 11:51:31.416,C:\Users\Axel\Documents\Embarcadero\Studio\Projets\Project2.cbproj=C:\Users\Axel\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+	<Transactions>
+    <Transaction>2025/09/24 08:22:38.000.331,=C:\Users\Axel\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2025/09/24 08:22:38.000.257,=C:\Users\Axel\Documents\Embarcadero\Studio\Projets\Project2PCH2.h</Transaction>
+    <Transaction>2025/09/24 11:51:31.000.416,C:\Users\Axel\Documents\Embarcadero\Studio\Projets\Project2.cbproj=C:\Users\Axel\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
   </Transactions>
 </BorlandProject>
