@@ -13,6 +13,7 @@ class TForm2 : public TForm
 __published:	// Composants gérés par l'EDI
 	TEdit *Edit1;
 	TButton *Button1;
+	TLabel *Label1;
 	void __fastcall Button1Click(TObject *Sender);
 private:	// Déclarations utilisateur
 public:		// Déclarations utilisateur
